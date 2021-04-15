@@ -1,0 +1,12 @@
+Daniel - Server:
+IP: 37.97.6.112
+Port: 7777
+Brugernavn: daniel
+Adgangskode: danielersej
+
+
+Simon - Server:
+IP: 80.167.81.52
+Port: 7777
+Brugernavn: dragonslayer420
+Adgangskode: cooldragon
